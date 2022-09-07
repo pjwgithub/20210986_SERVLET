@@ -5,6 +5,6 @@
 %>
 <html>
 <body>
-    message = <%=h.hello() %>
+    메시지는 = <%=h.hello() %> 입니다.
 </body>	
 </html>
